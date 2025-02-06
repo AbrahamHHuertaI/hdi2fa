@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.authenticator.app-mergeDebugResources-40:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Abraham\\.gradle\\caches\\8.8\\transforms\\7b318836775473582af6a678efbc7360\\transformed\\material-1.6.1\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,191",
+                        "endColumns": "135,140",
+                        "endOffsets": "186,327"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+[
+    {
+        "merged": "com.authenticator.app-debug-42:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.authenticator.app-main-44:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.authenticator.app-main-44:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.authenticator.app-main-44:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.authenticator.app-main-44:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-xhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-xhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/drawable-mdpi_assets_emptystate.png.flat",
+        "source": "com.authenticator.app-main-44:/drawable-mdpi/assets_emptystate.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-xxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-xxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-hdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-hdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-hdpi_ic_launcher_background.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.authenticator.app-main-44:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-xxxhdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-xxxhdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.authenticator.app-main-44:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-mdpi_ic_launcher_monochrome.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-mdpi/ic_launcher_monochrome.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/drawable-mdpi_assets_logo.png.flat",
+        "source": "com.authenticator.app-main-44:/drawable-mdpi/assets_logo.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.authenticator.app-main-44:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.authenticator.app-debug-42:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.authenticator.app-main-44:/mipmap-mdpi/ic_launcher_foreground.png"
+    }
+]

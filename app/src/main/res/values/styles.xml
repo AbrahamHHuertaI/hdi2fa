@@ -1,0 +1,11 @@
+<resources>
+    <!-- Tema principal de la aplicación sin Splash Screen -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Personaliza el tema aquí -->
+        <item name="android:windowBackground">@android:color/white</item> <!-- Fondo blanco o el color que prefieras -->
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+        <item name="android:windowDisablePreview">true</item> <!-- Desactiva la vista previa para evitar Splash -->
+        <item name="android:windowIsTranslucent">true</item> 
+    </style>
+
+</resources>
