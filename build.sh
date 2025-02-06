@@ -4,4 +4,4 @@ npx react-native bundle --platform android --dev false --entry-file index.js --b
 
 
 npx react-native bundle --platform ios --dev false --entry-file index.js --bundle-output ios/main.jsbundle --assets-dest ios
-     
+     s
